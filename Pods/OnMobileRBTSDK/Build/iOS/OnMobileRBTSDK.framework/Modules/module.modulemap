@@ -1,0 +1,11 @@
+framework module OnMobileRBTSDK {
+  umbrella header "OnMobileRBTSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OnMobileRBTSDK.Swift {
+    header "OnMobileRBTSDK-Swift.h"
+    requires objc
+}

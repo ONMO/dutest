@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import ESTabBarController_swift
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

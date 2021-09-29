@@ -1,0 +1,8 @@
+${DWARF_DSYM_FOLDER_PATH}/Alamofire.framework.dSYM
+${DWARF_DSYM_FOLDER_PATH}/CryptoSwift.framework.dSYM
+${DWARF_DSYM_FOLDER_PATH}/ISPageControl.framework.dSYM
+${DWARF_DSYM_FOLDER_PATH}/OnMobileRBTSDK.framework.dSYM
+${DWARF_DSYM_FOLDER_PATH}/SDWebImage.framework.dSYM
+${DWARF_DSYM_FOLDER_PATH}/SwiftDate.framework.dSYM
+${DWARF_DSYM_FOLDER_PATH}/TrustKit.framework.dSYM
+${DWARF_DSYM_FOLDER_PATH}/youtube_ios_player_helper.framework.dSYM

@@ -1,0 +1,8 @@
+${PODS_ROOT}/OnMobileRBTSDK/Build/iOS/Alamofire.framework.dSYM
+${PODS_ROOT}/OnMobileRBTSDK/Build/iOS/CryptoSwift.framework.dSYM
+${PODS_ROOT}/OnMobileRBTSDK/Build/iOS/ISPageControl.framework.dSYM
+${PODS_ROOT}/OnMobileRBTSDK/Build/iOS/OnMobileRBTSDK.framework.dSYM
+${PODS_ROOT}/OnMobileRBTSDK/Build/iOS/SDWebImage.framework.dSYM
+${PODS_ROOT}/OnMobileRBTSDK/Build/iOS/SwiftDate.framework.dSYM
+${PODS_ROOT}/OnMobileRBTSDK/Build/iOS/TrustKit.framework.dSYM
+${PODS_ROOT}/OnMobileRBTSDK/Build/iOS/youtube_ios_player_helper.framework.dSYM

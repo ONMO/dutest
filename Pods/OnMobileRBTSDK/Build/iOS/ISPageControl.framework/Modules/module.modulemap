@@ -1,0 +1,11 @@
+framework module ISPageControl {
+  umbrella header "ISPageControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module ISPageControl.Swift {
+    header "ISPageControl-Swift.h"
+    requires objc
+}
